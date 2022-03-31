@@ -1,0 +1,3042 @@
+[
+    {
+        "name": "Olivier Dussopt",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ard\u00e8che",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Arnaud Robinet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 15 d\u00e9cembre 2008 au 19 juin 2012",
+        "department": "Marne",
+        "group": "NA",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Franck Riester",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Patrice Verch\u00e8re",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Aur\u00e9lie Filippetti",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Moselle",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "R\u00e9gis Juanico",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Val\u00e9rie Rosso-Debord",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Meurthe-et-Moselle",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Benoist Apparu",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 23 juillet 2009",
+        "department": "Marne",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "S\u00e9bastien Huyghe",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Martial Saddier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Christophe Lagarde",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "NC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Marc Joulaud",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 19 juin 2012",
+        "department": "Sarthe",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Michel Havard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Corinne Erhel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "C\u00f4tes d'Armor",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Sandrine Mazetier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "J\u00e9r\u00f4me Chartier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Philippe Gosselin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Thierry Benoit",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ille-et-Vilaine",
+        "group": "NA",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Christophe Sirugue",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "SRC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Nicolas Perruchot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loir-et-Cher",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Lionel Tardy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Philippe Meunier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Claude Flory",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ard\u00e8che",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Luc Warsmann",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ardennes",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Franck Reynier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Dr\u00f4me",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Goldberg",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Xavier Bertrand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juillet 2007",
+        "department": "Aisne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marietta Karamanli",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sarthe",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Damien Meslot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Territoire-de-Belfort",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Manuel Aeschlimann",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Franck Marlin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Essonne",
+        "group": "UMP-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "\u00c9ric Straumann",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Annick Girardin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Saint-Pierre-et-Miquelon",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Cop\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Didier Robert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 13 novembre 2010",
+        "department": "La R\u00e9union",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Claude Perez",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aude",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Censi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aveyron",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Fr\u00e9d\u00e9rique Massat",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ari\u00e8ge",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fr\u00e9d\u00e9ric Lefebvre",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 24 juillet 2009",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Philippe Folliot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Tarn",
+        "group": "NC-A",
+        "vote_1": "none"
+    },
+    {
+        "name": "Bernard Cazeneuve",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Manche",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Nicolin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Antoine Herth",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Fr\u00e9d\u00e9ric Poisson",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 24 juillet 2009",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Daniel Fasquelle",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pas-de-Calais",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Vincent Descoeur",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Cantal",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Arnaud Montebourg",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "SRC-G",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Fran\u00e7ois Vannson",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vosges",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Manuel Valls",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Essonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fran\u00e7oise Gu\u00e9got",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Fran\u00e7ois Pupponi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 16 d\u00e9cembre 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Sylvie Andrieux",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Grall",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Morbihan",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bruno Sandras",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Polyn\u00e9sie fran\u00e7aise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Catherine Lemorton",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Garonne",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Philippe Cochet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Olivier Carr\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Nicolas Dupont-Aignan",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Essonne",
+        "group": "NA",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Marie Sermier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Jura",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Nicolas Forissier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Indre",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Henri Plagnol",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fabienne Labrette-M\u00e9nager",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sarthe",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Nicolas Dhuicq",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aube",
+        "group": "SRC-G",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Philippe Briand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Indre-et-Loire",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Thierry Lazaro",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Didier Gonzales",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christophe Caresche",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Catherine Vautrin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Philippe Maurer",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Herv\u00e9 Gaymard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Gilles Bourdouleix",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Abdoulatifou Aly",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Mayotte",
+        "group": "NA",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Christian Paul",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ni\u00e8vre",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marie-H\u00e9l\u00e8ne Amiable",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Hunault",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire-Atlantique",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Patrice Calm\u00e9jane",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Dominique Tian",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christian Jacob",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Fran\u00e7ois Lamy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Essonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Dominique Baert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "B\u00e9reng\u00e8re Poletti",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ardennes",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "\u00c9lie Aboud",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 4 juillet 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Dominique Dord",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7oise Olivier-Coupeau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 4 mai 2011",
+        "department": "Morbihan",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Renaud Muselier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Isabelle Vasseur",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aisne",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Maurice Leroy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 15 d\u00e9cembre 2010",
+        "department": "Loir-et-Cher",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Dominique Le M\u00e8ner",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sarthe",
+        "group": "NA",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Martine Pinville",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Charente",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Louis Giscard d'Estaing",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Puy-de-D\u00f4me",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Paul Lecoq",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Chantal Berthelot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Guyane",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yannick Favennec",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Mayenne",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Thierry Mariani",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 15 d\u00e9cembre 2010",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Georges Siffredi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 5 janvier 2009 au 14 d\u00e9cembre 2010",
+        "department": "Hauts-de-Seine",
+        "group": "UMP-A",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christophe Guilloteau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Fran\u00e7ois Cornut-Gentille",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christophe Priou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire-Atlantique",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Annick Lepetit",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jacques Le Guen",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Finist\u00e8re",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Michel Liebgott",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Moselle",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marie-Christine Dalloz",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Jura",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Paul Jeanneteau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 16 juin 2012",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Carayon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Tarn",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Pierre Moscovici",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Doubs",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Patrick Roy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 2 mai 2011",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Philippe Nauche",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Corr\u00e8ze",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "J\u00e9r\u00f4me Lambert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Charente",
+        "group": "SRC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Paul Giacobbi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Corse",
+        "group": "SRC-A",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Claude Bouchet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Francis Saint-L\u00e9ger",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loz\u00e8re",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Marc",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aveyron",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Perrut",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Deluga",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du  1er d\u00e9cembre 2008 au 19 juin 2012",
+        "department": "Gironde",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean Dionis du S\u00e9jour",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Lot-et-Garonne",
+        "group": "NC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Gu\u00e9nha\u00ebl Huet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Vallini",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Is\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Patrick Bloche",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "R\u00e9mi Delatte",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "C\u00f4te-d'Or",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Louis Gagnaire",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fran\u00e7ois Brottes",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Christian Eckert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Meurthe-et-Moselle",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jacques Grosperrin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Doubs",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Dino Cinieri",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christian Estrosi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juillet 2007",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Lassalle",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "group": "NA",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Bouvard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Yves Bony",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 14 d\u00e9cembre 2010",
+        "department": "Cantal",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Julien Dray",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Essonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Philippe Vitel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Lionnel Luca",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Michel Cl\u00e9ment",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vienne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Genevi\u00e8ve Fioraso",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Ren\u00e9-Paul Victoria",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "La R\u00e9union",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Rudy Salles",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Alpes-Maritimes",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Claude Greff",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 juillet 2011",
+        "department": "Indre-et-Loire",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Philippe Goujon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Yvan Lachaud",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gard",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Philippe Martin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gers",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Sordi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Reyn\u00e8s",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Deflesselles",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Goulard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Morbihan",
+        "group": "UMP",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Bernard G\u00e9rard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marie-Lou Marcel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aveyron",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fran\u00e7oise Hostalier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Fran\u00e7oise Branget",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Doubs",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Gorges",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 novembre 2007",
+        "department": "Eure-et-Loir",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marc-Philippe Daubresse",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 23 avril 2010",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Charles Taugourdeau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Fran\u00e7ois Sauvadet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 juillet 2011",
+        "department": "C\u00f4te-d'Or",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Patricia Adam",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Finist\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fran\u00e7ois Calvet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Pyr\u00e9n\u00e9es-Orientales",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Bascou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aude",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Olivier Jard\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Somme",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Domergue",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Serge Letchimy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Martinique",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Marie Le Guen",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marc Dolez",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Pierre Decool",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP-A",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Martine Billard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Louis Cosyns",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Cher",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Lamblin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Meurthe-et-Moselle",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Mallot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Allier",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Bernard Roman",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "J\u00e9r\u00f4me Cahuzac",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Lot-et-Garonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Didier Migaud",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au  1er mars 2010",
+        "department": "Is\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Claude Leroy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Pas-de-Calais",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Didier Mathus",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Claude Bodin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Paul Chari\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 3 novembre 2009",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Alain B\u00e9nisti",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Sapin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Indre",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Albarello",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Ferry",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP-A",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Luc Reitzer",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Yanick Paternotte",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Roland Muzeau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Henri Jibrayel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Alain Suguenot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "C\u00f4te-d'Or",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jacques Valax",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Tarn",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Victorin Lurel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Guadeloupe",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Christophe Cambad\u00e9lis",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Claude Bartolone",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Patrick Labaune",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Dr\u00f4me",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Bayrou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "group": "NA",
+        "vote_1": "contre"
+    },
+    {
+        "name": "C\u00e9leste Lett",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Moselle",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Pierre Lellouche",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 23 juillet 2009",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Vidalies",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Landes",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Bur",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Michel Herbillon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Rousset",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gironde",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-S\u00e9bastien Vialatte",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Louis Christ",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Gest",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Somme",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Thierry Carcenac",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Tarn",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Armand Jung",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Patrick Braouezec",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jeanny Marc",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Guadeloupe",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Pierre Grand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Franck Gilard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Eure",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Abelin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vienne",
+        "group": "NC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Robert Lecou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alfred Trassy-Paillogues",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Chassaigne",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Puy-de-D\u00f4me",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Vandewalle",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 16 juin 2012",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Balligand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aisne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Dominique Raimbourg",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire-Atlantique",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pierre Cohen",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Garonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Claude Thomas",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Claude Mignon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Marc Ayrault",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 15 juin 2012",
+        "department": "Loire-Atlantique",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Luc Perat",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Serge Blisko",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Paul Chanteguet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Indre",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pierre Lequiller",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Le Nay",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Morbihan",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fr\u00e9d\u00e9ric Reiss",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Lesterlin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Allier",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pierre Cardo",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 5 juin 2010",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Vaillant",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "G\u00e9rard Gaudron",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Guy Geoffroy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Glavany",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hautes-Pyr\u00e9n\u00e9es",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Fran\u00e7ois-Michel Gonnot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Paul Bacquet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Puy-de-D\u00f4me",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Gilbert Le Bris",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Finist\u00e8re",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Yves Cousin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Calvados",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Marcon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 16 juin 2012",
+        "department": "Haute-Loire",
+        "group": "UMP-A",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Richard Dell'Agnola",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Michel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Puy-de-D\u00f4me",
+        "group": "SRC-G",
+        "vote_1": "absent"
+    },
+    {
+        "name": "J\u00e9r\u00f4me Bignon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Somme",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "No\u00ebl Mam\u00e8re",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gironde",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Terrot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Richard Malli\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Gilles Carrez",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain Claeys",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vienne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pierre Gosnat",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Patrick Balkany",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Chantal Robin-Rodrigo",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hautes-Pyr\u00e9n\u00e9es",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Philippe Tourtelier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ille-et-Vilaine",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean Leonetti",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 juillet 2011",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Fidelin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Georges Mothron",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "G\u00e9rard Cherpion",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vosges",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Michel Boucheron",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ille-et-Vilaine",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Mancel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Brard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-St-Denis",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marc Francina",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Patrice Martin-Lalande",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loir-et-Cher",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Alain Cacheux",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Raison",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Sa\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Maxime Bono",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Charente-Maritime",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Serge Poignant",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire-Atlantique",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Marie Morisset",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Deux-S\u00e8vres",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Myard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christian Vanneste",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Pierre Lang",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Moselle",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Claude Fruteau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "La R\u00e9union",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Emile Blessig",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Grellier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Deux-S\u00e8vres",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Chossy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 5 mai 2011",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marylise Lebranchu",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 16 juin 2012",
+        "department": "Finist\u00e8re",
+        "group": "SRC",
+        "vote_1": "none"
+    },
+    {
+        "name": "Alain Cousin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Gaubert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "C\u00f4tes d'Armor",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Marc Lefranc",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Calvados",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Giran",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Schneider",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Didier Quentin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Charente-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Vergnier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Creuse",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Jacques Guillet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Francis Hillmeyer",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "NC",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Michel Destot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Lejeune",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christian Kert",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Paul Anciaux",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Marie Binetruy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Doubs",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Boisserie",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Vienne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marc Vampa",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 14 d\u00e9cembre 2010",
+        "department": "Eure",
+        "group": "NC",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Yves Durand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Marcel Bonnot",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Doubs",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Lefait",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pas-de-Calais",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pierre Lasbordes",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Essonne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Christian Bataille",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean Auclair",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Creuse",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Delebarre",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Guy Malherbe",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 22 mars 2012",
+        "department": "Essonne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Michel Villaum\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Sa\u00f4ne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Alain Marty",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Moselle",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Chantal Bourragu\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gironde",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Yves Cochet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 6 d\u00e9cembre 2011",
+        "department": "Paris",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Ren\u00e9 Rouquet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-de-Marne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "G\u00e9rard Bapt",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Garonne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Claude Birraux",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Rochebloine",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "NC",
+        "vote_1": "none"
+    },
+    {
+        "name": "G\u00e9rard Voisin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Dominique Perben",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marc Laffineur",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 juillet 2011",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Kl\u00e9ber Mesquida",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Alain Moyne-Bressand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Diefenbacher",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Lot-et-Garonne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Roland Blum",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Depierre",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "C\u00f4te-d'Or",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Henri Emmanuelli",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Landes",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pascal Cl\u00e9ment",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Guy Teissier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Louis-Joseph Manscour",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Martinique",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Claude Goasguen",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "G\u00e9rard Hamel",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Eure-et-Loir",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Yves Le D\u00e9aut",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Meurthe-et-Moselle",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Christian Patria",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 14 d\u00e9cembre 2010",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Pierre-Alain Muet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Claude Lenoir",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Orne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Patrick Ollier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 15 d\u00e9cembre 2010",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Henri Nayrou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ari\u00e8ge",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Guy Chambefort",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Allier",
+        "group": "SRC-A",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Voisin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ain",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Debr\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Max Roustan",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gard",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alfred Almont",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Martinique",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Vauzelle",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Claude Beaulieu",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juillet 2007 au 14 d\u00e9cembre 2010",
+        "department": "Charente-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Denis Jacquat",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Moselle",
+        "group": "UMP",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Pascale Crozon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Rh\u00f4ne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "G\u00e9rard Charasse",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Allier",
+        "group": "SRC-A",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean-Paul Dupr\u00e9",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aude",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Yves Besselat",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 23 mars 2012",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Albert Facon",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pas-de-Calais",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Gabriel Biancheri",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 29 d\u00e9cembre 2010",
+        "department": "Dr\u00f4me",
+        "group": "UMP-A",
+        "vote_1": "pour"
+    },
+    {
+        "name": "G\u00e9rard Lorgeoux",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Morbihan",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Paul",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-Maritime",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Serge Janquin",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Pas-de-Calais",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Muriel Marland-Militello",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Pierre Dufau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Landes",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Michel Fran\u00e7aix",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Oise",
+        "group": "SRC-G",
+        "vote_1": "none"
+    },
+    {
+        "name": "Marc Bernier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Mayenne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Marc Nesme",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Piron",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Michel Ferrand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Masdeu-Arus",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 6 ao\u00fbt 2009",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Georges Ginesta",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Alain N\u00e9ri",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 30 septembre 2011",
+        "department": "Puy-de-D\u00f4me",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Pierre Door",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Schosteck",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 4 f\u00e9vrier 2008 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Henri Cuq",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 11 juin 2010",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Jean Roatta",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 6 d\u00e9cembre 2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Loncle",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Eure",
+        "group": "SRC",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Yves Fromion",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Cher",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Ren\u00e9 Dosi\u00e8re",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aisne",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean Bardet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Remiller",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Kossowski",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Daniel Spagnou",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Alpes-de-Haute-Provence",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Maxime Gremetz",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 17 mai 2011",
+        "department": "Somme",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Georges Colombier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Is\u00e8re",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marc Goua",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Maine-et-Loire",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Michel Couve",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Etienne Mourrut",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gard",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Bernard Derosier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Nord",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Andr\u00e9 V\u00e9zinhet",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "H\u00e9rault",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean-Claude Mathis",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aube",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Pierre M\u00e9haignerie",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ille-et-Vilaine",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Etienne Pinte",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Tony Dreyfus",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Claude Gatignol",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Michel Sainte-Marie",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Gironde",
+        "group": "SRC-G",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Bernard Brochand",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Marie-Jos\u00e9e Roig",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "none"
+    },
+    {
+        "name": "Jean-Louis Bernard",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Lucien Degauchy",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Ren\u00e9 Couanau",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Ille-et-Vilaine",
+        "group": "UMP",
+        "vote_1": "absent"
+    },
+    {
+        "name": "Fran\u00e7ois Scellier",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Louis Gu\u00e9don",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Vend\u00e9e",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jacques Desallangre",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Aisne",
+        "group": "GDR",
+        "vote_1": "contre"
+    },
+    {
+        "name": "Jean Ueberschlag",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Tiberi",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean Proriol",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Haute-Loire",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Soisson",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Yonne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Didier Julia",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "pour"
+    },
+    {
+        "name": "Jean-Pierre Dupont",
+        "job": "d\u00e9put\u00e9",
+        "mandate": "Du 20 juin 2007 au 19 juin 2012",
+        "department": "Corr\u00e8ze",
+        "group": "UMP",
+        "vote_1": "none"
+    }
+]

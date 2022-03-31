@@ -1,0 +1,3062 @@
+[
+    {
+        "name": "Philippe Darniche",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vend\u00e9e",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Colette M\u00e9lot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Voguet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Christian Cointat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Michel Magras",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Saint-Barth\u00e9lemy",
+        "group": "UMP",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Henri De Raincourt",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yonne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Didier Guillaume",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Dr\u00f4me",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jacques Gautier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean Louis Masson",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Moselle",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Bruno Retailleau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vend\u00e9e",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Michel Charasse",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Puy-de-D\u00f4me",
+        "group": "RDSE",
+        "vote_1": "absent",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Michel Thiolli\u00e8re",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacques Legendre",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7oise Laborde",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Garonne",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Autain",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire-Atlantique",
+        "group": "CRC-SPG-R",
+        "vote_1": "absent",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Roland Du Luart",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Sarthe",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alima Boumediene-Thiery",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC-R",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Claudine Lepage",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Ivan Renar",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Mercier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "G\u00e9rard C\u00e9sar",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Adrien Giraud",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Mayotte",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Claude Gaudin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Monique Papon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire-Atlantique",
+        "group": "UMP",
+        "vote_1": "none",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Catherine Tasca",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "SOC",
+        "vote_1": "none",
+        "vote_2": "none"
+    },
+    {
+        "name": "Claude Domeizel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes de Haute-Provence",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Marie-Christine Blandin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "SOC-R",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Jean-Pierre Plancade",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Garonne",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bernadette Dupont",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "UMP-A",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Ambroise Dupont",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Calvados",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jo\u00eblle Garriaud-Maylam",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "absent",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Catherine Morin-Desailly",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Richard Yung",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Daniel Raoul",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Maine-et-Loire",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Patrick Courtois",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Serge Lagauche",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean Desessard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC-R",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Samia Ghali",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Jack Ralite",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Catherine Procaccia",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "absent",
+        "vote_2": "pour"
+    },
+    {
+        "name": "G\u00e9rard Larcher",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "none",
+        "vote_2": "none"
+    },
+    {
+        "name": "Nicolas About",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Michel B\u00e9cot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Deux-S\u00e8vres",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Michel Billout",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Sophie Joissains",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bernard Frimat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Philippe Adnot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aube",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Sylvie Desmarescaux",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Claude Biwer",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meuse",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Dubois",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Somme",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Soulage",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Lot-et-Garonne",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Gaston Flosse",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Polyn\u00e9sie fran\u00e7aise",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Herv\u00e9 Maurey",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alex T\u00fcrk",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "NI",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marcel Deneux",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Somme",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Claude Merceron",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vend\u00e9e",
+        "group": "UC",
+        "vote_1": "pour",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Pierre H\u00e9risson",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Jacques Mirassou",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Garonne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Paul Alduy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pyr\u00e9n\u00e9es-Orientales",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Dallier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marie-Th\u00e9r\u00e8se Hermange",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Aymeri De Montesquiou",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gers",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Nicolas Alfonsi",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Corse-du-Sud",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Serge Dassault",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Essonne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Edmond Herv\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ille-et-Vilaine",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alb\u00e9ric De Montgolfier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure-et-Loir",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacqueline Alquier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Tarn",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Yves Daudigny",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aisne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Odette Herviaux",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Morbihan",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Paul Amoudry",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Savoie",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yves Dauge",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Indre-et-Loire",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Houel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacques Muller",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haut-Rhin",
+        "group": "SOC-R",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Mich\u00e8le Andr\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Puy-de-D\u00f4me",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Marc Daunis",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes-Maritimes",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Houpert",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4te-d'Or",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Nachbar",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meurthe-et-Moselle",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Pierre Andr\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aisne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Isabelle Debr\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Humbert",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Doubs",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Robert Navarro",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "H\u00e9rault",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Serge Andreoni",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Robert Del Picchia",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christiane Hummel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Louis N\u00e8gre",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bernard Angels",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-d'Oise",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Demerliat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Vienne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Beno\u00eet Hur\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ardennes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacqueline Panis",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meurthe-et-Moselle",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christiane Demont\u00e8s",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Jacques Hyest",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Charles Pasqua",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "UMP-A",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alain Anziani",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Christian Demuynck",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Soibahadine Ibrahim Ramadani",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Mayotte",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Marc Pastor",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Tarn",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean Arthuis",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Mayenne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "G\u00e9rard D\u00e9riot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Allier",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Pierre Jarlier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Cantal",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Georges Patient",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Guyane",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "David Assouline",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "B\u00e9atrice Descamps",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "UMP-A",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Annie Jarraud-Vergnolle",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Fran\u00e7ois Patriat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4te-d'Or",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bertrand Auban",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Garonne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Marie-H\u00e9l\u00e8ne Des Esgaulx",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Claude Jeannerot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Doubs",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Philippe Paul",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Finist\u00e8re",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Robert Badinter",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Jacques J\u00e9gou",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "absent"
+    },
+    {
+        "name": "Anne-Marie Payet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "La R\u00e9union",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Denis Badr\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "absent"
+    },
+    {
+        "name": "Denis Detcheverry",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Saint-Pierre-et-Miquelon",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Percheron",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "G\u00e9rard Bailly",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Jura",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yves D\u00e9traigne",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Marne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Marc Juilhard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Puy-de-D\u00f4me",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Claude Peyronnet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Vienne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Gilbert Barbier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Jura",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Muguette Dini",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christiane Kammermann",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jackie Pierre",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vosges",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Michel Baylet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Tarn-et-Garonne",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "\u00c9ric Dolig\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fabienne Keller",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Pillet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Cher",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Ren\u00e9 Beaumont",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Sa\u00f4ne-et-Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Joseph Kergueris",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Morbihan",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Xavier Pintat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Dominati",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bariza Khiari",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Louis Pinton",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Indre",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Bel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ari\u00e8ge",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Doublet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Charente-Maritime",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Virginie Kl\u00e8s",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ille-et-Vilaine",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bernard Piras",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Dr\u00f4me",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Claude Belot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Charente-Maritime",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alain Dufaut",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yves Krattinger",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Sa\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Claude B\u00e9rit-D\u00e9bat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Dordogne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Andr\u00e9 Dulait",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Deux-S\u00e8vres",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Labeyrie",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Landes",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "R\u00e9my Pointereau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Cher",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Pierre Bernard-Reymond",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hautes-Alpes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Catherine Dumas",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christian Poncelet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vosges",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacques Berthou",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ain",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Ladislas Poniatowski",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean Besson",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Dr\u00f4me",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Lambert",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Orne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Hugues Portelli",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Laurent B\u00e9teille",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Essonne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-L\u00e9once Dupont",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Calvados",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marc Lam\u00e9nie",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ardennes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Roland Povinelli",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jo\u00ebl Billard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure-et-Loir",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Josette Durrieu",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hautes-Pyr\u00e9n\u00e9es",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "\u00c9lisabeth Lamure",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yves Pozzo Di Borgo",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean Bizet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Louis Duvernois",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Serge Larcher",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Martinique",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Gis\u00e8le Printz",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Moselle",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jacques Blanc",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loz\u00e8re",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Lardeux",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Maine-et-Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Raffarin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vienne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Paul Blanc",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pyr\u00e9n\u00e9es-Orientales",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Anne-Marie Escoffier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aveyron",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Robert Laufoaulu",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Iles Wallis et Futuna",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marcel Rainaud",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aude",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Claude Etienne",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Laurent",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Charente-Maritime",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Maryvonne Blondin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Finist\u00e8re",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Pierre Fauchon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loir-et-Cher",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7oise Laurent-Perrigot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gard",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Yannick Bodin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Fauconnier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aveyron",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Ren\u00e9 Lecerf",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Paul Raoult",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Nicole Bonnefoy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Charente",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean Faure",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Is\u00e8re",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Dominique Leclerc",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Indre-et-Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Rebsamen",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4te-d'Or",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Pierre Bordier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yonne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7oise F\u00e9rat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Marne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Antoine Lef\u00e8vre",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aisne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Reiner",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meurthe-et-Moselle",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Didier Borotra",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Ferrand",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Thierry Repentin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Savoie",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Yannick Botrel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4tes-d'Armor",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Luc Fichet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Finist\u00e8re",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Dominique De Legge",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ille-et-Vilaine",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Charles Revet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Didier Boulaud",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ni\u00e8vre",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Louis-Constant Fleming",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Saint-Martin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Le Grand",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Manche",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Richert",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Fortassin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hautes-Pyr\u00e9n\u00e9es",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Andr\u00e9 Lejeune",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Creuse",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Roland Ries",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bas-Rhin",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jo\u00ebl Bourdin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alain Fouch\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vienne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Leleux",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Josselin De Rohan",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Morbihan",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Martial Bourquin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Doubs",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Fourcade",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacky Le Menn",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ille-et-Vilaine",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Roger Romani",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bernadette Bourzai",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Corr\u00e8ze",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bernard Fournier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Janine Rozier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loiret",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Brigitte Bout",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Paul Fournier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gard",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Philippe Leroy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Moselle",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Mich\u00e8le San Vicente-Baudrin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Boutant",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Charente",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean Fran\u00e7ois-Poncet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Lot-et-Garonne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Raymonde Le Texier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-d'Oise",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bernard Saugey",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Is\u00e8re",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean Boyer",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Loire",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christophe-Andr\u00e9 Frassa",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alain Le Vern",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Patricia Schillinger",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haut-Rhin",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Dominique Braye",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Claude Fr\u00e9con",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Claude Lise",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Martinique",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Sergent",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Nicole Bricq",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-et-Marne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "G\u00e9rard Longuet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meuse",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bruno Sido",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marie-Th\u00e9r\u00e8se Brugui\u00e8re",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "H\u00e9rault",
+        "group": "UMP-A",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yann Gaillard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aube",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Simon Loueckhote",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nouvelle-Cal\u00e9donie",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Ren\u00e9-Pierre Sign\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ni\u00e8vre",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Elie Brun",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Ren\u00e9 Garrec",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Calvados",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Jacques Lozach",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Creuse",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Esther Sittler",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois-No\u00ebl Buffet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Christian Gaudin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Maine-et-Loire",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Sueur",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loiret",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Caffet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Roger Madec",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Simon Sutour",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gard",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Christian Cambon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Charles Gautier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire-Atlantique",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Philippe Madrelle",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Teston",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ard\u00e8che",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Claire-Lise Campion",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Essonne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Gis\u00e8le Gautier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire-Atlantique",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacques Mah\u00e9as",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Ren\u00e9 Teulade",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Corr\u00e8ze",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Cantegrit",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Lucienne Malovry",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-d'Oise",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Claude Carle",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Savoie",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Patrice G\u00e9lard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Marc",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Finist\u00e8re",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Marc Todeschini",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Moselle",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Louis Carr\u00e8re",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Landes",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Philippe Marini",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Trillard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire-Atlantique",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7oise Cartron",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gironde",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bruno Gilles",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Daniel Marsin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Guadeloupe",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Auguste Cazalet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jacques Gillot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Guadeloupe",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Pierre Martin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Somme",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Fran\u00e7ois Trucy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Var",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Bernard Cazeau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Dordogne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Colette Giudicelli",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Masseret",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Moselle",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Richard Tuheiava",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Polyn\u00e9sie fran\u00e7aise",
+        "group": "SOC-A",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Monique Cerisier-Ben Guiga",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Godefroy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Manche",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Marc Massion",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Raymond Vall",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Gers",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Nathalie Goulet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Orne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Pierre Mauroy",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Marie Vanlerenberghe",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Yves Chastan",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ard\u00e8che",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jacqueline Gourault",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loir-et-Cher",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Jean-Fran\u00e7ois Mayet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Indre",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Andr\u00e9 Vantomme",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Oise",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Chatillon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Garonne",
+        "group": "UMP-R",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Alain Gournac",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Yvelines",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Rachel Mazuir",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ain",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Vasselle",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Oise",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Chauveau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Sarthe",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Adrien Gouteyron",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Loire",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Luc M\u00e9lenchon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Essonne",
+        "group": "CRC-SPG",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Fran\u00e7ois Vendasi",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Corse",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Jacqueline Chev\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4tes-d'Armor",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Sylvie Goy-Chavent",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Ain",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Ren\u00e9 Vestri",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Alpes-Maritimes",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Marcel-Pierre Cl\u00e9ach",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Sarthe",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Francis Grignon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bas-Rhin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean-Pierre Vial",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Savoie",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Charles Guen\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Marne",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Louis Mermaz",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Is\u00e8re",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Paul Virapoull\u00e9",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "La R\u00e9union",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Yvon Collin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Tarn-et-Garonne",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-No\u00ebl Gu\u00e9rini",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jacques M\u00e9zard",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Cantal",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Dominique Voynet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "SOC-R",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "G\u00e9rard Collomb",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michel Guerry",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Fran\u00e7ais \u00e9tablis hors de France",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Lucette Michaux-Chevry",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Guadeloupe",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Pierre-Yves Collombat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Var",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Michel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haute-Sa\u00f4ne",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Fran\u00e7ois Zocchetto",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Mayenne",
+        "group": "UC",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "G\u00e9rard Cornu",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Eure-et-Loir",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Hubert Haenel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Haut-Rhin",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Jean Milhau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Lot",
+        "group": "RDSE",
+        "vote_1": "contre",
+        "vote_2": "contre"
+    },
+    {
+        "name": "Raymond Couderc",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "H\u00e9rault",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Claude Haut",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vaucluse",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Alain Milon",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Vaucluse",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "Roland Courteau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Aude",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "Fran\u00e7oise Henneron",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "UMP",
+        "vote_1": "contre",
+        "vote_2": "pour"
+    },
+    {
+        "name": "G\u00e9rard Miquel",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Lot",
+        "group": "SOC",
+        "vote_1": "contre",
+        "vote_2": "none"
+    },
+    {
+        "name": "\u00c9liane Assassi",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Saint-Denis",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Claude Danglot",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Pas-de-Calais",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Brigitte Gonthier-Maurin",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Hauts-de-Seine",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Annie David",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Is\u00e8re",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "G\u00e9lita Hoarau",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "La R\u00e9union",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Marie-France Beaufils",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Indre-et-Loire",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Michelle Demessine",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Nord",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Robert Hue",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-d'Oise",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Mireille Schurch",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Allier",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "\u00c9velyne Didier",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Meurthe-et-Moselle",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "G\u00e9rard Le Cam",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "C\u00f4tes-d'Armor",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Odette Terrade",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Val-de-Marne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Nicole Borvo Cohen-Seat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Paris",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Guy Fischer",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Rh\u00f4ne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Josiane Mathon-Poinat",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Loire",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Robert Tropeano",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "H\u00e9rault",
+        "group": "RDSE",
+        "vote_1": "absent",
+        "vote_2": "absent"
+    },
+    {
+        "name": "Thierry Foucaud",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Seine-Maritime",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Isabelle Pasquet",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Bouches-du-Rh\u00f4ne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Bernard Vera",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Essonne",
+        "group": "CRC-SPG",
+        "vote_1": "absent",
+        "vote_2": "none"
+    },
+    {
+        "name": "Jean-Pierre Chev\u00e8nement",
+        "job": "s\u00e9nateur",
+        "mandate": "2008-2011",
+        "department": "Territoire de Belfort",
+        "group": "RDSE",
+        "vote_1": "absent",
+        "vote_2": "pour"
+    }
+]
